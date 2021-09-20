@@ -1,3 +1,3 @@
 # TextGenerator
 
-A 2layer-RNN that learns to generate text.
+A 2-layer RNN that learns to generate text.
